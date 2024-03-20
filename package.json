@@ -1,15 +1,17 @@
 {
-  "name": "primeira_api",
+  "name": "01-primeira-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "keywords": [],
+  "description": "",
   "dependencies": {
-    "express": "^4.19.1",
+    "express": "^4.18.3",
     "nodemon": "^3.1.0"
   }
 }
